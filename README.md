@@ -1,4 +1,4 @@
-# resize-image-wasm
+# Vanilla JavaScript Image Resizer (Node.js + WebAssembly)
 
 Zero-dependency image resize utility built with Node.js and WebAssembly.
 
